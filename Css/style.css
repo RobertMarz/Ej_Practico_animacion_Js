@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+}
+.container{
+    max-width: 1200px;
+    width: 50%;
+    margin: 100px auto;
+}
+.container >h2{
+    text-align: center;
+    overflow: hidden;
+    width: 400px;
+    height: 100px;
+    padding: 0px;
+
+}
+.w-100{
+    width: 100%;
+}
+.contenedor-list{
+    text-align: center;
+    overflow: hidden;
+    width: 400px;
+    height: 170px;
+
+}
+.contenedor-list >ul{
+    list-style: none;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+
+}
+.contenedor-list >ul >li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: blue;
+    text-shadow: 4px 4px 7px gray;
+
+
+}
